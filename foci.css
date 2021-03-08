@@ -1,0 +1,84 @@
+body{
+    margin: auto;
+    background-image: url(./Képek/futballon-magyar-foci-tortenelem-1.jpg);
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gomb {
+    width: 11%;
+    padding: 10px;
+    background-color: black;
+    cursor: default;
+    color: white;
+    text-align: center;
+    height: 80px;
+    margin-top: 10px;
+}
+.header {
+    width: auto;
+    height: 75px;
+    padding: 50px;
+    background-image: url(./Képek/soccer-ball-close-up-banner1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#oldallec {
+    float: right;
+    width: 240px;
+    margin-top: 20px;
+    margin-right: 25px;
+    padding: 26px;
+    height: auto;
+    background: rgb(88, 88, 88);
+    position: relative;
+    color: white;
+    
+}
+.footer1{
+    width: 240px;
+    margin-top: 92px;
+    padding: 26px;
+    height: auto;
+    width: auto;
+    background: darkgray;
+    position: relative;
+}
+.footer2{
+    width: 240px;
+    margin-top: 50px;
+    padding: 26px;
+    height: auto;
+    width: auto;
+    background: darkgray;
+    position: relative;
+}
+.tartalom{
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 370px;
+    text-align: center;
+}
+.tartalom1{
+    color: white;
+    margin-top: 10px;
+    margin-right: 370px;
+    background-color: black;
+    text-align: center;
+    margin-left: 10px;
+}
+.szoveg{
+    text-align: left;
+    padding: 8px;
+}
+#idezet{
+    margin-top: 5%;
+}
+#idezet1{
+    margin-top: 8%;
+}
+#idezet2{
+    margin-top: 10%;
+}
